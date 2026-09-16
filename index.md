@@ -40,6 +40,6 @@ future plans, presentations ... write to (info@peekabooav.de) and for security r
 * **Michael Weiser** - *Developer* - [@michaelweiser](https://github.com/michaelweiser)
 
 
-Please also have a look at our [repository on Github](https://github.com/scVENUS/peekabooAV), our
-[wiki on Github](https://github.com/scVENUS/PeekabooAV/wiki) as well as the
+Please also have a look at our [repository on Github](https://github.com/science-computing/peekabooAV), our
+[wiki on Github](https://github.com/science-computing/PeekabooAV/wiki) as well as the
 [news, updates and related pointers on Twitter @peekabooav](https://twitter.com/peekabooav).
