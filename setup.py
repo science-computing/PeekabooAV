@@ -59,8 +59,8 @@ setup(
     version=__version__,
     description=__description__,
     long_description=long_description,
-    url='https://github.com/scVENUS/PeekabooAV.git',
-    download_url='https://github.com/scVENUS/PeekabooAV/archive/master.zip',
+    url='https://github.com/science-computing/PeekabooAV.git',
+    download_url='https://github.com/science-computing/PeekabooAV/archive/master.zip',
     license=__license__,
     classifiers=[
       'Development Status :: 4 - Beta',

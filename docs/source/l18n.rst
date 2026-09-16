@@ -150,4 +150,4 @@ looking into how to translate this string into their language using the normal
 process explained under :ref:`new-languages`.
 
 .. _Babel: http://babel.pocoo.org
-.. _GitHub: https://github.com/scVENUS/PeekabooAV
+.. _GitHub: https://github.com/science-computing/PeekabooAV

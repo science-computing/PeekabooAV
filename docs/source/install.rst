@@ -152,7 +152,7 @@ Start with either an unpacked tarball of the source or check it out using git:
 
 .. code-block:: shell
 
-    $ git clone https://github.com/scVENUS/PeekabooAV.git
+    $ git clone https://github.com/science-computing/PeekabooAV.git
     $ cd PeekabooAV
 
 Optionally a specific release, commit or branch can be found and checkout out:

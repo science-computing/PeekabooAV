@@ -1,7 +1,7 @@
 # PeekabooAV #
 
-[![Testsuite](https://github.com/scVENUS/PeekabooAV/actions/workflows/testsuite.yml/badge.svg)](https://github.com/scVENUS/PeekabooAV/actions/workflows/testsuite.yml)
-[![Container CI pipeline](https://github.com/scVENUS/PeekabooAV/actions/workflows/container-ci.yml/badge.svg)](https://github.com/scVENUS/PeekabooAV/actions/workflows/container-ci.yml)
+[![Testsuite](https://github.com/science-computing/PeekabooAV/actions/workflows/testsuite.yml/badge.svg)](https://github.com/science-computing/PeekabooAV/actions/workflows/testsuite.yml)
+[![Container CI pipeline](https://github.com/science-computing/PeekabooAV/actions/workflows/container-ci.yml/badge.svg)](https://github.com/science-computing/PeekabooAV/actions/workflows/container-ci.yml)
 
 **Peekaboo Extended Email Attachment Behavior Observation Owl**
 
@@ -30,7 +30,7 @@ Fosstodon [@peekabooav@fosstodon.org](https://fosstodon.org/@peekabooav).
 * [Python](https://www.python.org/downloads/) (3.6+ required)
 * [Cuckoo 2.0](https://github.com/cuckoosandbox/cuckoo)
 * [AMaViSd 2.11.0](https://www.ijs.si/software/amavisd/)
-* Installer is available: [PeekabooAV-Installer](https://github.com/scVENUS/PeekabooAV-Installer)
+* Installer is available: [PeekabooAV-Installer](https://github.com/science-computing/PeekabooAV-Installer)
 
 
 ### Installation ###
@@ -43,7 +43,7 @@ virtualenv --python=python3 /path/to/venv
 
 Or use this repository:
 ```shell
-git clone https://github.com/scVENUS/PeekabooAV.git
+git clone https://github.com/science-computing/PeekabooAV.git
 virtualenv --python=python3 /path/to/venv
 /path/to/venv/bin/pip install .
 ```
@@ -95,7 +95,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Versioning ##
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available,
-see the [tags on this repository](https://github.com/scVENUS/PeekabooAV/releases).
+see the [tags on this repository](https://github.com/science-computing/PeekabooAV/releases).
 
 ## Past and present Developers and Contributors ##
 

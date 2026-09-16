@@ -46,7 +46,7 @@ runs:
     - name: Checkout Installer repository
       uses: actions/checkout@v4
       with:
-        repository: scVENUS/PeekabooAV-Installer
+        repository: science-computing/PeekabooAV-Installer
         # get all history, branches and tags because we figure out which to
         # use later on
         fetch-depth: 0
